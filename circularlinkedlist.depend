@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1602097594 source:d:\dsa\circularlinkedlist\main.c
+	"cll.h"
+
+1601471842 d:\dsa\circularlinkedlist\cll.h
+	<stdio.h>
+	<stdlib.h>
+
+1602098170 source:d:\dsa\circularlinkedlist\cll.c
+	"cll.h"
+
